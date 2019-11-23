@@ -1,1 +1,1 @@
-test
+<localStorage></localStorage>
