@@ -12,7 +12,7 @@ export default function CartColumns() {
                     </div>
                     <div className="col-10 mx-auto col-lg-2">
                         <p className="text-uppercase">
-                            Product Name List test
+                            Product Name test-git
                         </p>
                     </div>
                     <div className="col-10 mx-auto col-lg-2">
